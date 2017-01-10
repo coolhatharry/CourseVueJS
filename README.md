@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Course: VueJS
 
-You can use the [editor on GitHub](https://github.com/coolhatharry/CourseVueJS/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Subject
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Zero to Superhero. Learn the basics and build your way up to an optimized, testable, production-ready web app.
 
-### Markdown
+## Ideas for example apps
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* AirBnb clone
+* Facebook clone
+* Food delivery clone (Foodora, Just-eat)
 
-```markdown
-Syntax highlighted code block
+## Ideas for extra skills to cover
 
-# Header 1
-## Header 2
-### Header 3
+* Real-time data using Websockets or Pubsub
+* Micro-optimizations (such as list lazy-load by @dcodus)
+* Building re-usable components within the project
 
-- Bulleted
-- List
+## Special resource distribution
+Please add any non code related skills applicable to course creation.
 
-1. Numbered
-2. List
+### Codrin Diaconu
+* Voiceover work
 
-**Bold** and _Italic_ and `Code` text
+### Corey Lee
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/coolhatharry/CourseVueJS/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Todd Beauchamp
+* Graphic design (experience with all aspects)
+* Audio recording (experience with DAW, micing, editing)
+* Video editing (experience with Premiere + After Effects)
